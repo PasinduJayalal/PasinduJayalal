@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasindu Jayalal</h1>
-<h3 align="center">Junior Software Developer | Python • Java • C# | AI • Full-Stack • Systems</h3>
+<h3 align="center">Junior Software Developer | Python • JavaScript • C# | AI • Full-Stack • Systems</h3>
 
 <p align="center">
   <a href="mailto:dhpasinduj@gmail.com"><img src="https://img.shields.io/badge/Email-dhpasinduj@gmail.com-red?style=flat-square&logo=gmail"></a>
@@ -72,6 +72,14 @@
 > ML clustering on UCI Census dataset  
 > 📈 Visualized 5 distinct user segments  
 > 🔍 Optimized via elbow + silhouette methods
+
+---
+
+#### 🔹 [Pathfinding Visualizer](https://github.com/PasinduJayalal/PathfindingVisualizer)
+> Interactive simulator for classic graph search algorithms using Python + Pygame  
+> 🧭 Visualized DFS, BFS, Dijkstra, and A* in real-time  
+> 🖱️ User-friendly UI with grid editing, wall placement, and animation  
+> 📊 Designed for educational use to demonstrate pathfinding logic
 
 ---
 
