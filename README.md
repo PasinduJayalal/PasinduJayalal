@@ -129,7 +129,7 @@
 - 🌐 [Portfolio Website](https://portfolio-6a7e.onrender.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pasindujayalal)  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <p align="center">
   <i>Thanks for visiting! Feel free to connect or collaborate 🚀</i>
